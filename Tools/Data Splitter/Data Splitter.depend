@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480229425 source:x:\google drive\programs\lucinduce\tools\data splitter\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
